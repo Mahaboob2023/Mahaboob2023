@@ -4,7 +4,7 @@ Quality Assurance Engineer | Aspiring Data Analyst
 
 About Me
 
-Currently preparing for a career in Data Analytics after working as a QA Engineer in Game Testing at Destiny Interactive
+Currently preparing for a career in Data Analytics and worked as a QA Engineer in Game Testing
 
 Passionate about learning by doing, especially through real-time projects
 
