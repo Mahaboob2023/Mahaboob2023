@@ -1,12 +1,33 @@
-- 👋 Hi, I’m Mahaboob Basha,Currently working as a Quality Assurance Engineer in Game Testing in an Organization.
-- 👀 I’m interested in Learning new things in practical by building real time projects.
-- 🌱 I’m currently learning new methods of manual testing for providing better quality of products to clients.
-- 💞️ I’m looking to collaborate on community that can help me grow as well as build great connection to grow mutually.
-- 📫 How to reach me * Gmail: bashamahammed1999@gmail.com
-                     * LinkedIn: https://www.linkedin.com/in/mahaboob-basha-1bb45a215/
+Hi, I'm Mahaboob Basha
 
+Quality Assurance Engineer | Aspiring Data Analyst
 
-<!---
-Mahaboob2023/Mahaboob2023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+About Me
+
+Currently preparing for a career in Data Analytics after working as a QA Engineer in Game Testing at Destiny Interactive
+
+Passionate about learning by doing, especially through real-time projects
+
+Exploring manual testing, Excel, Power Query, Power Pivot, DAX, and more
+
+Open to connecting with communities that support mutual growth and learning
+
+Skills
+
+Game Testing: Functional, Regression, Exploratory
+
+Excel: VLOOKUP, XLOOKUP, Power Query, Pivot Tables, DAX
+
+Testing Tools: Google Sheets, ClickUp, Bug Reporting
+
+Soft Skills: Communication, Documentation, Critical Thinking
+
+Projects
+Coming soon: Real-time dashboards and testing case studies
+
+Let's Connect
+Email: bashamahammed1999@gmail.com
+LinkedIn: https://www.linkedin.com/in/mahaboob-basha-1bb45a215/
+
+Fun Fact
+I believe in learning with empathy and applying knowledge practically. Whether it's catching bugs or crunching data — I love making things better and smarter.
