@@ -18,7 +18,7 @@ Power BI: Data Modeling, Power Query Editor, DAX , Report Design, Interactive Da
 
 Testing Tools: Google Sheets, ClickUp, Bug Reporting
 
-Soft Skills: Communication, Documentation, Critical Thinking    https://github.com/Mahaboob2023/Excel-Sales-Analytics
+Soft Skills: Communication, Documentation, Critical Thinking   
 
 📂   Projects
  Excel     - [**Sales & Finance Analytics Reports**](https://github.com/Mahaboob2023/Excel-Sales-Analytics)
