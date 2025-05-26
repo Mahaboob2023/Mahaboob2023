@@ -1,6 +1,6 @@
  👋 Hi, I'm Mahaboob Basha
 
-Quality Assurance Engineer | Aspiring Data Analyst
+Quality Assurance Engineer | Data Analyst
 
 About Me
 
