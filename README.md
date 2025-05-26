@@ -8,8 +8,6 @@ Currently preparing for a career in Data Analytics and worked as a QA Engineer i
 
 Passionate about learning by doing, especially through real-time projects
 
-Exploring manual testing, Excel, Power Query, Power Pivot, DAX, and more
-
 Open to connecting with communities that support mutual growth and learning
 
 🛠️ Skills
