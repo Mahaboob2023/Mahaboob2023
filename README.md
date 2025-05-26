@@ -14,17 +14,21 @@ Open to connecting with communities that support mutual growth and learning
 
 🛠️ Skills
 
-Game Testing: Functional, Regression, Manual Testing
-
 Excel: VLOOKUP, XLOOKUP, Power Query, Pivot Tables, DAX
+
+Power BI: Data Modeling, Power Query Editor, DAX , Report Design, Interactive Dashboards, Performance Tuning (DAX Studio), Power BI Service (Publishing, Sharing)
 
 Testing Tools: Google Sheets, ClickUp, Bug Reporting
 
-Soft Skills: Communication, Documentation, Critical Thinking
+Soft Skills: Communication, Documentation, Critical Thinking    https://github.com/Mahaboob2023/Excel-Sales-Analytics
 
 📂   Projects
-Coming soon: Real-time dashboards and testing case studies
+ Excel     - [**Sales & Finance Analytics Reports**](https://github.com/Mahaboob2023/Excel-Sales-Analytics)
+
+ Power BI  - [**AtliQ Hardware – Business Insights**](https://github.com/Mahaboob2023/Power-BI-_-AtliQ-Hardware-/blob/main/Business_Insights_AtliQ%20360.pdf)
+
+
 
 Let's Connect
 ✉️ Email: bashamahammed1999@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/mahaboob-basha-1bb45a215/
+💼 LinkedIn: [**Mahaboob Basha**](https://www.linkedin.com/in/mahaboob-basha-1bb45a215/)
